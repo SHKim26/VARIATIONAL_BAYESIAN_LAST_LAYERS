@@ -1,4 +1,7 @@
-# VARIATIONAL_BAYESIAN_LAST_LAYERS
+# Project Description
+
+
+# Paper overview
 
 ![1](./git_fig/1.png)
 
