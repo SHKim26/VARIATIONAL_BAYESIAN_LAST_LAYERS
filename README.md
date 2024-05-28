@@ -18,7 +18,7 @@
 ![1](./git_fig/1.png)
 
 ##
-**VARIATIONAL BAYESIAN LAST LAYERS** 논문은 Google DeepMind의 James Harrison이 1저자로 2024년에 발간된 논문이다
+**[VARIATIONAL BAYESIAN LAST LAYERS]**(https://arxiv.org/abs/2404.11599) 논문은 Google DeepMind의 James Harrison이 1저자로 2024년에 4월 17일에 accepted된 논문이다
 
 내가 이 논문을 고른 몇가지 이유가 있다
 
@@ -26,7 +26,7 @@
 
 - 구글 딥마인드에서 발간된, 아주 최신 논문이라는 점이 읽어보고 싶게 했다
 
-- 논문을 다 읽고나니 앞으로 내 연구생활에 도움이 될 것 같다는 느낌을 받았다 (이를 활용해서 정말 성능이 좋으면, 많은 알고리즘의 기반이 되지 않을까?)
+- 논문을 다 읽고 나니 앞으로 내 연구생활에 도움이 될 것 같다는 느낌을 받았다 (이를 활용해서 정말 성능이 좋으면, 많은 알고리즘의 기반이 되지 않을까?)
 
 ##
 ![2](./git_fig/2.png)
