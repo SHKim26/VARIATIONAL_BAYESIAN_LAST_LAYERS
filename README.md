@@ -7,18 +7,18 @@
 **Reproducibility Challenges**
 
 # Abstract
- **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 팀프로젝트를 진행함
+ **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 재현성 (MLRC) 팀프로젝트 를 진행했다.
 
- repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음
+ 나의 repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있다
 
- 코드 사용과 논문에 대한 이해를 돕기 위해 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
+ 코드 사용과 논문에 대한 이해를 돕기 위해 이어지는 Paper overview 섹션에서 논문의 주요 내용에 대해 서술했다
 
 # Paper overview
 
 ![1](./git_fig/1.png)
 
 ##
-**[VARIATIONAL BAYESIAN LAST LAYERS]**(https://arxiv.org/abs/2404.11599) 논문은 Google DeepMind의 James Harrison이 1저자로 2024년에 4월 17일에 accepted된 논문이다
+**[VARIATIONAL BAYESIAN LAST LAYERS]** 논문은 Google DeepMind의 James Harrison이 1저자로 2024년에 4월 17일에 accepted된 논문이다 (https://arxiv.org/abs/2404.11599)
 
 내가 이 논문을 고른 몇가지 이유가 있다
 
@@ -102,9 +102,10 @@ BLL에서 VBLL로 발전되는 과정을,
 
 따라서 논문에서 제안된 VBLL은 
 
-**변분 추론**을 통해 (12)식 오른쪽항 **(mariginal likelihood의 하한)을 최대화** 하는 방법을 사용한다
-
-
+**변분 추론**을 통해 (12)식 오른쪽항 **(mariginal likelihood의 하한)을 최대화** 하는 방법을 사용한다. 이때,
+- \( L(\theta, \eta, \Sigma) \)는 모델 아키텍처에 의존적인 함수로, 주변 가능성의 하한을 나타낸다
+- \( \mathrm{KL}(q(\xi \mid \eta) \parallel p(\xi)) \)는 근사 사후 분포와 실제 사후 분포 사이의 KL divergence)다. 이 발산은 근사와 실제 분포 사이의 차이로, 이를 최소화해야한다
+- \( \frac{1}{T} \)는 데이터셋 크기에 따른 정규화 요소로, 표준 비베이지안 훈련 파이프라인과 비교 및 일관된 학습 목표를 위해 사용된다
 
 
 
