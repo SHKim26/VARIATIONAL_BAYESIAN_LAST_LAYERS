@@ -10,7 +10,7 @@
 
 ![5](./git_fig/5.png)
 
-![6](./git_fig/6.png)
+![6](./git_fig/6.PNG)
 
 ![7](./git_fig/7.png)
 
