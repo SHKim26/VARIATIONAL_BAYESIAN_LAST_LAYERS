@@ -2,6 +2,8 @@
 
 인공신경망과 딥러닝_팀프로젝트
 
+24510101 김상훈
+
 **Reproducibility Challenges**
 
 # Abstract
