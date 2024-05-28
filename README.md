@@ -9,7 +9,7 @@
 # Abstract
  **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 재현성 (MLRC) 팀프로젝트 를 진행했다.
 
- 나의 repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있다
+ 나의 repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있다 (https://github.com/vectorinstitute/vbll)
 
  코드 사용과 논문에 대한 이해를 돕기 위해 이어지는 Paper overview 섹션에서 논문의 주요 내용에 대해 서술했다
 
