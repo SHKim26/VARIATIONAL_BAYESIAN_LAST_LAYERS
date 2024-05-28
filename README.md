@@ -1,1 +1,18 @@
 # VARIATIONAL_BAYESIAN_LAST_LAYERS
+
+![1](./git_fig/1.png)
+
+![2](./git_fig/2.png)
+
+![3](./git_fig/3.png)
+
+![4](./git_fig/4.png)
+
+![5](./git_fig/5.png)
+
+![6](./git_fig/6.png)
+
+![7](./git_fig/7.png)
+
+![8](./git_fig/8.png)
+
