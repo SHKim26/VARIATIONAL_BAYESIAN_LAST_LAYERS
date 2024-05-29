@@ -51,7 +51,7 @@
 
 먼저 Bayesian Last Layer (BLL) 에 대해 간략히 설명하면, 아주 간단하다
 
-**Neural Network의 마지막 층을 Bayesian 추론을 적용**하면, 그것이 BLL이다 
+**Neural Network의 마지막 층에 Bayesian 추론을 적용**하면, 그것이 BLL이다 
 
 
 그럼 이러한 짓을 왜 할까?
