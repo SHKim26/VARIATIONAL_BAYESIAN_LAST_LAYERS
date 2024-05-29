@@ -7,11 +7,11 @@
 **Reproducibility Challenges**
 
 # Abstract
- **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 재현성 (MLRC) 팀프로젝트 를 진행했다.
+ **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
 
- 나의 repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있다 (https://github.com/vectorinstitute/vbll)
+ repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음 (https://github.com/vectorinstitute/vbll)
 
- 코드 사용과 논문에 대한 이해를 돕기 위해 이어지는 Paper overview 섹션에서 논문의 주요 내용에 대해 서술했다
+ 코드 사용과 논문에 대한 이해를 돕기 위해 이어지는 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
 
 # Paper overview
 
@@ -26,7 +26,7 @@
 
 - 구글 딥마인드에서 발간된, 아주 최신 논문이라는 점이 읽어보고 싶게 했다
 
-- 논문을 다 읽고 나니 앞으로 내 연구생활에 도움이 될 것 같다는 느낌을 받았다 (이를 활용해서 정말 성능이 좋으면, 많은 알고리즘의 기반이 되지 않을까?)
+- 논문을 다 읽고 나니 앞으로 내 연구생활에 도움이 될 것 같다는 느낌을 받았다 (다른 알고리즘과의 결합 가능성)
 
 ##
 ![2](./git_fig/2.png)
@@ -66,7 +66,7 @@
 ![5](./git_fig/5.png)
 
 ##
-논문에서 설명하는 여러 task들 중 regression의 경우에서의 BLL 구조를 보면 위와 같다 
+논문에서 설명하는 여러 task들 중 regression의 BLL 수식은 위와 같다 
 
 ##
 
@@ -76,7 +76,7 @@
 
 BLL에서 VBLL로 발전되는 과정을, 
 
-내 언어로 쉽게 도식화해보았다
+내 쉽게 도식화해보면 위와 같다
 
 아이디어는 단순하지만 매우 뛰어나다
 
@@ -86,7 +86,7 @@ BLL에서 VBLL로 발전되는 과정을,
 
 ![7](./git_fig/7.png)
 
-앞서 도식의 (log) mariginal likelihood 는 (11)식과 같다
+앞서 도식의 (log) mariginal likelihood 는 equation (11) 과 같다
 
 논문의 핵심 motivation이자 기존 모델들의 문제점은
 
