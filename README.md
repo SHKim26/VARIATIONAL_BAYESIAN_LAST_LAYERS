@@ -114,5 +114,19 @@ BLL에서 VBLL로 발전되는 과정을, 쉽게 도식화해보면 위와 같�
 - $\ \mathrm{KL}(q(\xi \mid \eta) \parallel p(\xi)) \$는 근사 사후 분포와 실제 사후 분포 사이의 KL divergence)다. 이 발산은 근사와 실제 분포 사이의 차이로, 이를 최소화해야한다
 - $\ \frac{1}{T} \$는 데이터셋 크기에 따른 정규화 요소로, 표준 비베이지안 훈련 파이프라인과 비교 및 일관된 학습 목표를 위해 사용된다
 
+주변 가능성의 하한을 나타내는 $\ \mathcal{L}(\theta, \eta, \Sigma) \$ 을 
 
+regression, classification task에서 어떻게 설정했는지는
+
+논문을 참고하면 자세히 서술되어 있다
+
+##
+
+VBLL의 학습과 예측 방법, 
+
+regression, classification task에서의 성능과 다른 baseline과 비교 결과는 논문을 참고하면 된다
+
+이제 overview를 마치고, 재구현 프로젝트와 그 결과에 대해서 아래의 Reproducibility results 섹션에서 서술한다
+
+# Reproducibility results
 
