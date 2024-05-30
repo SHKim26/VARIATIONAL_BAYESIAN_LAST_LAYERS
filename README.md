@@ -122,9 +122,7 @@ regression, classification task에서 어떻게 설정했는지는
 
 ##
 
-VBLL의 학습과 예측 방법, 
-
-regression, classification task에서의 성능과 다른 baseline과 비교 결과는 논문을 참고하면 된다
+VBLL의 학습과 예측 방법, 성능을 포함한 baseline과 비교 결과 등은 논문을 참고하면 된다
 
 이제 overview를 마치고, 재구현 프로젝트와 그 결과에 대해서 아래의 Reproducibility results 섹션에서 서술한다
 
