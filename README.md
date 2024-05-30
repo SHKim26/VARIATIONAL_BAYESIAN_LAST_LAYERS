@@ -7,7 +7,7 @@
 **Reproducibility Challenges**
 
 # Abstract
- **VARIATIONAL BAYESIAN LAST LAYERS** (https://arxiv.org/abs/2404.11599) 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
+ **[VARIATIONAL BAYESIAN LAST LAYERS]** (https://arxiv.org/abs/2404.11599) 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
 
  - repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음 (https://github.com/vectorinstitute/vbll)
 
@@ -20,7 +20,7 @@
 ![1](./git_fig/1.png)
 
 ##
-**[VARIATIONAL BAYESIAN LAST LAYERS]** 논문은 Google DeepMind의 James Harrison이 1저자로 2024년에 4월 17일에 accepted된 논문이다 (https://arxiv.org/abs/2404.11599)
+**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년에 4월 17일에 accepted된 논문이다
 
 내가 이 논문을 고른 몇가지 이유가 있다
 
