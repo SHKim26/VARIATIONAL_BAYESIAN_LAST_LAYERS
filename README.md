@@ -13,6 +13,8 @@
 
  코드 사용과 논문에 대한 이해를 돕기 위해, 아래의 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
 
+ 재구현 결과와 그에 대한 분석은 Reproducibility results 섹션에서 서술함
+
 # Paper overview
 
 ![1](./git_fig/1.png)
