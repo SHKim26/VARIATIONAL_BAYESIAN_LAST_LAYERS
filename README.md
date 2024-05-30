@@ -129,7 +129,7 @@ regression, classification task에서 어떻게 설정했는지는
 
 ##
 
-![algorithm 1](./git_fig/algorithm 1.png)
+![algorithm 1](./git_fig/algorithm1.png)
 
 ##
 
