@@ -11,7 +11,7 @@
 
  repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음 (https://github.com/vectorinstitute/vbll)
 
- 코드 사용과 논문에 대한 이해를 돕기 위해 이어지는 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
+ 코드 사용과 논문에 대한 이해를 돕기 위해, 아래의 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
 
 # Paper overview
 
@@ -41,8 +41,15 @@
 ##
 논문에서 제안하는 VBLL 방법은 위와 같은 장점이 있다 
 
-이제 VBLL의 작동 방식에 대해 살펴보자
+##
 
+
+##
+VBLL의 성능은 왼쪽의 그림과 같은 Regression, 오른쪽과 같은 Classification 두 task에 대해 성능 측정 및 분석이 진행된다
+
+이번 재구현 프로젝트도 이 두 task 에 대해 진행되었고,
+
+이제 VBLL의 작동방식에 대해 알아보자
 
 ##
 ![4](./git_fig/4.png)
@@ -67,6 +74,8 @@
 
 ##
 논문에서 설명하는 여러 task들 중 regression의 BLL 수식은 위와 같다 
+
+다른 
 
 ##
 
