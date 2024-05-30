@@ -7,13 +7,13 @@
 **Reproducibility Challenges**
 
 # Abstract
- **VARIATIONAL BAYESIAN LAST LAYERS** 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
+ **VARIATIONAL BAYESIAN LAST LAYERS** (https://arxiv.org/abs/2404.11599) 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
 
  - repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음 (https://github.com/vectorinstitute/vbll)
 
- - 코드 사용과 논문에 대한 이해를 돕기 위해, 아래의 Paper overview 섹션에서 논문의 주요 내용에 대해 서술함
+ - 코드 사용과 논문에 대한 이해를 돕기 위해, 아래의 **Paper overview** 섹션에서 논문의 주요 내용에 대해 서술함
 
- - 재구현 결과와 그에 대한 분석은 Reproducibility results 섹션에서 서술함
+ - 재구현 결과와 그에 대한 분석은 **Reproducibility results** 섹션에서 서술함
 
 # Paper overview
 
