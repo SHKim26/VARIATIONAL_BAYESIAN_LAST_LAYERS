@@ -1,7 +1,7 @@
 # **Machine Learning Reproducibility Challenge (MLRC)**
 
 # Abstract
- **[VARIATIONAL BAYESIAN LAST LAYERS]** (https://arxiv.org/abs/2404.11599) 논문으로 재현성 (MLRC) 프로젝트를 진행함
+ **[VARIATIONAL BAYESIAN LAST LAYERS]** (https://arxiv.org/abs/2404.11599) 논문으로 MLRC 를 진행함
 
  - 논문의 재구현 결과는 repo에 포함된 \[Re] VARIATIONAL BAYESIAN LAST LAYERS.pdf 파일에서 확인할 수 있음 
 
