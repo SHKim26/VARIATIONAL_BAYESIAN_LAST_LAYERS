@@ -128,9 +128,9 @@ regression, classification task에서 각각 어떻게 설정했는지는
 
 ##
 
-VBLL의 학습과 예측 방법, 성능을 포함한 baseline과 비교 결과 등은 논문을 참고하면 된다
+VBLL의 학습과 예측 방법, baseline과의 성능 비교 결과 등은 논문을 참고하면 된다
 
-특히 그림처럼 Algorithm에 대한 상세한 설명이나, 증명, 하이퍼파라미터 등
+특히 그림처럼 Algorithm에 대한 설명이나, 증명, 하이퍼파라미터 등
 
 **논문의 수식과 그 구성요소들에 대한 자세한 설명은 original paper 의 Appendix. 에 기술되어있으니, 꼭 읽어봐야한다**
 
