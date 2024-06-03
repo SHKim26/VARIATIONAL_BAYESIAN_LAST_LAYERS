@@ -13,8 +13,6 @@
 
  - 코드 사용과 논문에 대한 이해를 돕기 위해, 아래의 **Paper overview** 섹션에서 논문의 주요 내용에 대해 서술함
 
- - 재구현 결과와 그에 대한 분석은 **Reproducibility results** 섹션에서 서술함
-
 # Paper overview
 
 ![1](./git_fig/1.png)
@@ -139,8 +137,4 @@ VBLL의 학습과 예측 방법, 성능을 포함한 baseline과 비교 결과 �
 특히 그림처럼 Algorithm에 대한 상세한 설명이나, 증명, 하이퍼파라미터 등
 
 **논문의 수식과 그 구성요소들에 대한 자세한 설명은 Appendix.에 기술되어있으니, 꼭 읽어봐야한다**
-
-이제 overview를 마치고, 재구현 프로젝트와 그 결과에 대해서 아래의 Reproducibility results 섹션에서 살펴보자
-
-# Reproducibility results
 
