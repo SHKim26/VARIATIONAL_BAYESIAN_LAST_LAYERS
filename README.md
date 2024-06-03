@@ -20,7 +20,7 @@
 ![1](./git_fig/1.png)
 
 ##
-**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년에 4월 17일에 accepted된 논문이다
+**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년에 4월 17일, ICLR 2024에 accepted된 논문이다
 
 내가 이 논문을 고른 몇가지 이유가 있다
 
