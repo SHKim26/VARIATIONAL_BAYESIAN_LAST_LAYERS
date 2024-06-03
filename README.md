@@ -9,7 +9,7 @@
 # Abstract
  **[VARIATIONAL BAYESIAN LAST LAYERS]** (https://arxiv.org/abs/2404.11599) 논문으로 재현성 (MLRC) 팀프로젝트를 진행함
 
- - 논문의 재구현 결과는 repo에 포함된 \[Re]VARIATIONAL BAYESIAN LAST LAYERS.pdf 파일에서 확인할 수 있음 
+ - 논문의 재구현 결과는 repo에 포함된 \[Re] VARIATIONAL BAYESIAN LAST LAYERS.pdf 파일에서 확인할 수 있음 
 
  - repo 에 포함된 재구현 코드는 저자가 제공한 코드를 각색한 것으로, origianl code는 저자의 공식 repo를 통해 확인할 수 있음 (https://github.com/vectorinstitute/vbll)
 
