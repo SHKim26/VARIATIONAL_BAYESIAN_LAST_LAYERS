@@ -14,9 +14,9 @@
 ![1](./git_fig/1.png)
 
 ##
-**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년 4월 17일, ICLR 2024 Conference 에 accepted된 논문이다
+**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년 4월 17일, ICLR 2024 Conference 에 accepted 된 논문이다
 
-내가 이 논문을 고른 몇가지 이유가 있다
+내가 이 논문을 고른 몇 가지 이유가 있다
 
 - 구글 딥마인드에서 발간된 최신 논문이라는 점과 논문의 주요 concept (Bayesian Layers) 이 흥미롭게 다가왔다
 
@@ -29,7 +29,7 @@
 
 ##
 
-논문의 주요 motivation은 기존의 많은 불확실성을 측정하는 방법들의 complexity 가 핵심이라고 할 수 있다 
+논문의 주요 motivation은 불확실성을 측정하는 기존 방법들의 complexity 가 핵심이라고 할 수 있다 
 
 ##
 ![3](./git_fig/3.png)
@@ -83,7 +83,7 @@ BLL에서 VBLL로 발전되는 과정을, 쉽게 도식화해보면 위와 같�
 
 아이디어는 단순하지만 매우 뛰어나다
 
-그리고 이를 구현하기 위한 수학적 백그라운드와 많은 수식은, 논문을 참고하면 자세히 서술되어 있다
+그리고 이를 구현하기 위한 수학적 백그라운드와 많은 수식은, 논문에 자세히 서술되어있다
 
 ##
 
@@ -120,7 +120,7 @@ BLL에서 VBLL로 발전되는 과정을, 쉽게 도식화해보면 위와 같�
 
 regression, classification task에서 각각 어떻게 설정했는지는
 
-논문을 참고하면 자세히 서술되어 있다
+논문에 자세히 서술되어있다
 
 ##
 
