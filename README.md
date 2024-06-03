@@ -20,15 +20,15 @@
 ![1](./git_fig/1.png)
 
 ##
-**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년에 4월 17일, ICLR 2024에 accepted된 논문이다
+**[VARIATIONAL BAYESIAN LAST LAYERS]** 은 Google DeepMind의 James Harrison이 1저자로 참여해 2024년 4월 17일, ICLR 2024 Conference 에 accepted된 논문이다
 
 내가 이 논문을 고른 몇가지 이유가 있다
-
-- 딥러닝의 방법론을 다루고 있기 때문에 mlrc와 적합하다고 생각했다
 
 - 구글 딥마인드에서 발간된, 아주 최신 논문이라는 점이 읽어보고 싶게 했다
 
 - 논문을 다 읽고 나니 앞으로 내 연구에 도움이 될 것 같다는 느낌을 받았다 (다른 알고리즘과의 결합 가능성)
+
+- 딥러닝의 방법론을 다루고 있기 때문에 mlrc와 적합하다고 생각했다
 
 ##
 ![2](./git_fig/2.png)
@@ -47,9 +47,9 @@
 ![result](./git_fig/result.png)
 
 ##
-VBLL의 성능은 그림의 왼쪽과 같은 regression, 오른쪽과 같은 classification 두 task에 대해 성능 측정 및 분석이 진행된다
+논문에서는 그림의 왼쪽과 같은 regression, 오른쪽과 같은 classification 두 task에 대해 VBLL의 성능 측정 및 분석이 진행된다
 
-이번 재구현 프로젝트도 이 두 task 에 대해 진행되었다
+내가 진행한 재구현 프로젝트도 이 두 task 에 대해 진행되었다
 
 이제 VBLL의 작동방식에 대해 알아보자
 
